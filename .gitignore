@@ -1,0 +1,4 @@
+
+*.conf
+nginx/fastcgi_params
+nginx/koi-win
